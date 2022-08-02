@@ -1,0 +1,1 @@
+This repo contains the group work result from 2022 Winter for the Cogs 108 Course.
